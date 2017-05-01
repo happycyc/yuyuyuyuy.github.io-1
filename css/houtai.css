@@ -1,0 +1,30 @@
+*{
+	margin:0;
+	padding:0;
+}
+body,a{
+	font-size:15px;
+}
+nav{
+	color:#000;
+}
+span{
+	padding-right:5px;
+}
+#alert{
+	margin-top:5px;
+}
+#alert .container p{
+	line-height:35px;
+}
+#alert .container p button:nth-child(2){
+	background-color:#fff;
+	border: 1px solid #C12E2A;
+}
+#liuyan img{
+width:76px;	
+}
+#liuyan button{
+	margin-top:15px;
+	margin-bottom:23px;
+}
